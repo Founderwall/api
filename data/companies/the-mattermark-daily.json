@@ -1,0 +1,20 @@
+{
+  "title": "The Mattermark Daily",
+  "pitch": "by Mattermark.",
+  "description": "Get first-person accounts of entrepreneurship with The Mattermark Daily.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/mattermark"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/102113943351685703058/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/mattermark"
+    }
+  ],
+  "website": "http://mattermark.com/app/Newsletter"
+}

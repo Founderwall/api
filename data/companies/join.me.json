@@ -1,0 +1,20 @@
+{
+  "title": "join.me",
+  "pitch": "Making collaboration easy, no matter where you are. Better meetings for all.",
+  "description": "join.me provides instant screen sharing tool for ad-hoc collaborations, trainings and online meetings.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/join.me"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/0/+joinme/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/joinme"
+    }
+  ],
+  "website": "http://www.join.me"
+}

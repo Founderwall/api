@@ -1,0 +1,16 @@
+{
+  "title": "Hidden Founders",
+  "pitch": "CTO as a service",
+  "description": "Hidden Founders helps non-technical founders with brilliant projects build an MVP and get it to market.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/hiddenfounders"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/hiddenfounders"
+    }
+  ],
+  "website": "http://hiddenfounders.com"
+}

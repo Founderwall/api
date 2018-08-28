@@ -1,0 +1,16 @@
+{
+  "title": "Marvel",
+  "pitch": "Free mobile & web prototyping for everyone. No coding required.",
+  "description": "Just had the next billion-dollar app idea? Grab a pen and within minutes your idea will come to life with Marvel.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/marvelapp"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/marvelapp"
+    }
+  ],
+  "website": "http://marvelapp.com"
+}

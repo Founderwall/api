@@ -1,0 +1,16 @@
+{
+  "title": "Deploy",
+  "pitch": "Easy to use code deployment platform.",
+  "description": "Deploy your websites or apps directly from your repository to servers or the cloud.",
+  "social": [
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/117667488484570486199/"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/deployhq"
+    }
+  ],
+  "website": "http://www.deployhq.com"
+}

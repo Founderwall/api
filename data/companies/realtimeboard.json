@@ -1,0 +1,20 @@
+{
+  "title": "RealtimeBoard",
+  "pitch": "Whiteboard for remote team collaboration. Get the work done visually.",
+  "description": "RealtimeBoard is your regular whiteboard, re-thought for the best online experience.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/RealtimeBoard"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+RealtimeboardEn/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/realtimeboard"
+    }
+  ],
+  "website": "http://realtimeboard.com"
+}

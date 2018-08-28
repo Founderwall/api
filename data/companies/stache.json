@@ -1,0 +1,16 @@
+{
+  "title": "Stache",
+  "pitch": "A smarter way to bookmark web pages.",
+  "description": "Stache makes it quick and easy to collect pages you find useful, interesting or inspiring, in a visual and fully searchable library.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/getstache"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/getstache"
+    }
+  ],
+  "website": "http://getstache.com"
+}

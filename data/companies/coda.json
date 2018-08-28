@@ -1,0 +1,12 @@
+{
+  "title": "Coda",
+  "pitch": "The developer’s text editor.",
+  "description": "Coda is everything you need to hand-code a website, in one beautiful app.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/panic"
+    }
+  ],
+  "website": "http://www.panic.com/coda"
+}

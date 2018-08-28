@@ -1,0 +1,20 @@
+{
+  "title": "DocuSign",
+  "pitch": "Digital Transaction Management.",
+  "description": "Securely sign and manage documents online from any device with DocuSign.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/DocuSign"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+docusign/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/docusign"
+    }
+  ],
+  "website": "http://www.docusign.com"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Bluehost",
+  "pitch": "The worldwide leader in web hosting solutions.",
+  "description":
+    "Bluehost offers the best web hosting, powering over 2 million website worldwide.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/bluehost/"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+bluehost/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/bluehost"
+    }
+  ],
+  "website": "http://www.bluehost.com"
+}
+

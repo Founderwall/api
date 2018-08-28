@@ -1,0 +1,16 @@
+{
+  "title": "Intercom",
+  "pitch": "Customer communication made simple",
+  "description": "More than 4,000 web and mobile businesses use Intercom to connect with customers. They have live conversations inside their products and send targeted email and in-app messages, triggered by time or behavior.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/intercominc"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/intercom"
+    }
+  ],
+  "website": "http://www.intercom.io"
+}

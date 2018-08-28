@@ -1,0 +1,16 @@
+{
+  "title": "SlimWiki",
+  "pitch": "Beautiful Wikis for Teams.",
+  "description": "Wikis don’t have to be ugly, complex and hard to manage. Welcome to the future of the Wiki, with SlimWiki.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/slimwiki"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/slimwiki"
+    }
+  ],
+  "website": "http://slimwiki.com"
+}

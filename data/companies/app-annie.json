@@ -1,0 +1,20 @@
+{
+  "title": "App Annie",
+  "pitch": "App Ranking, Analytics, Market Intelligence.",
+  "description": "App Annie is the leading provider of app store analytics, app rankings, and market intelligence.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/AppAnnie"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+appannie/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/appannie"
+    }
+  ],
+  "website": "http://www.appannie.com"
+}

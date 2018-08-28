@@ -1,0 +1,16 @@
+{
+  "title": "Segment",
+  "pitch": "Segment makes customer data simple.",
+  "description": "Segment is a single hub for customer data. Collect your customer data in one place, send it anywhere.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/segmentio"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/segment"
+    }
+  ],
+  "website": "http://segment.com"
+}

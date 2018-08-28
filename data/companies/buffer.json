@@ -1,0 +1,20 @@
+{
+  "title": "Buffer",
+  "pitch": "Social Media Management Tool.",
+  "description": "Buffer is the easiest way to publish on social media.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/bufferapp"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Bufferapp/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/buffer"
+    }
+  ],
+  "website": "https://bufferapp.com"
+}

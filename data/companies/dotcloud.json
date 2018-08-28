@@ -1,0 +1,16 @@
+{
+  "title": "dotCloud",
+  "pitch": "One home for all your apps",
+  "description": "Assemble your stack from dozens of pre-configured components. dotCloud deploys and scales it for you.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/One.Platform.Any.Stack"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/dot_cloud"
+    }
+  ],
+  "website": "http://www.dotcloud.com"
+}

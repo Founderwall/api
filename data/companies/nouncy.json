@@ -1,0 +1,16 @@
+{
+  "title": "Nouncy",
+  "pitch": "Build a network of brand ambassadors. Let them speak for you on social media.",
+  "description": "Use Nouncy and create a landing page, build up support and launch it with a splash of social media posts.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/iamnouncy"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/iamnouncy"
+    }
+  ],
+  "website": "http://nouncy.com"
+}

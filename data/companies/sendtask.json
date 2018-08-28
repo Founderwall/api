@@ -1,0 +1,20 @@
+{
+  "title": "Sendtask",
+  "pitch": "A smart task manager built for easy collaboration",
+  "description": "Sendtask is the easiest way to collaborate with your team, clients, and suppliers in one place - even if they don’t have an account.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/sendtask.io/"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/109989150978416345413"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sendtaskio"
+    }
+  ],
+  "website": "http://sendtask.io"
+}

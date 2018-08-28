@@ -1,0 +1,20 @@
+{
+  "title": "Usersnap",
+  "pitch": "Tracking bugs was never easier.",
+  "description": "Usersnap is a visual bug tracker for everyone working on a web project.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/usersnap"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Usersnap/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/usersnap"
+    }
+  ],
+  "website": "http://usersnap.com"
+}

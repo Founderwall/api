@@ -1,0 +1,20 @@
+{
+  "title": "FreeAgent",
+  "pitch": "Accounting software, simplified.",
+  "description": "FreeAgent is accounting software for small businesses and freelancers.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/freeagentapp"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+FreeagentApp/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/freeagent"
+    }
+  ],
+  "website": "http://www.freeagent.com"
+}

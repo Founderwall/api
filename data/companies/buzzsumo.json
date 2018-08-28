@@ -1,0 +1,20 @@
+{
+  "title": "BuzzSumo",
+  "pitch": "Find the key influencers to promote your content.",
+  "description": "BuzzSumo helps you analyze what content performs best for any topic or competitor.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/buzzsumo/"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/102362769673806720606/videos"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/BuzzSumo"
+    }
+  ],
+  "website": "http://buzzsumo.com"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Codebase",
+  "pitch": "Project management for development teams.",
+  "description": "Codebase is a software project management tool with Git, Mercurial and subversion hosting.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/codebase"
+    }
+  ],
+  "website": "http://www.codebasehq.com"
+}

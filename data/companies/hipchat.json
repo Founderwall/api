@@ -1,0 +1,20 @@
+{
+  "title": "HipChat",
+  "pitch": "Private group chat, video chat, instant messaging for teams.",
+  "description": "HipChat is group instant messaging built exclusively for teams.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/HipChat"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Hipchat/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/hipchat"
+    }
+  ],
+  "website": "http://www.hipchat.com"
+}

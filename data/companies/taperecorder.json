@@ -1,0 +1,12 @@
+{
+  "title": "TapeRecorder",
+  "pitch": "Making apps beter, every day.",
+  "description": "TapeRecorder is an SDK that allows you to record what users are doing in your app.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/gettaperecorder"
+    }
+  ],
+  "website": "http://taperecorder.io"
+}

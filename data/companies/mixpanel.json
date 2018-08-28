@@ -1,0 +1,20 @@
+{
+  "title": "Mixpanel",
+  "pitch": "Analytics for mobile and web.",
+  "description": "Mixpanel is the most advanced analytics platform in the world for mobile & web.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/mixpanel"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/104166533728912196561/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/mixpanel"
+    }
+  ],
+  "website": "http://mixpanel.com"
+}

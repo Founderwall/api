@@ -1,0 +1,16 @@
+{
+  "title": "#StartupMovies",
+  "pitch": "Movies/Series/Documentaries on Startups and Entrepreneurs.",
+  "description": "#StartupMovies offers the best movies, series and geeks documentaries featuring startups and entrepreneurs.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/BeGeniusLLC"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/BeGeniusLLC"
+    }
+  ],
+  "website": "http://startupmovies.be-genius.com"
+}

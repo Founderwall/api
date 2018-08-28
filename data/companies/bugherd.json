@@ -1,0 +1,16 @@
+{
+  "title": "BugHerd",
+  "pitch": "The world's simplest bug tracker, just point and click.",
+  "description": "BugHerd is the easiest way to collect client feedback, resolve issues and manage your projects.",
+  "social": [
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+BugherdBugTracker/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/bugherd"
+    }
+  ],
+  "website": "http://bugherd.com"
+}

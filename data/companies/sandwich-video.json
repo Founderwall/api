@@ -1,0 +1,12 @@
+{
+  "title": "Sandwich Video",
+  "pitch": "Awesome startup videos.",
+  "description": "Sandwich Video makes videos, mostly for neat tech products.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sandwich"
+    }
+  ],
+  "website": "http://sandwichvideo.com"
+}

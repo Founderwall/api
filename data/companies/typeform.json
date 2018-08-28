@@ -1,0 +1,20 @@
+{
+  "title": "Typeform",
+  "pitch": "Make forms & surveys awesome.",
+  "description": "Typeform is a free and beautiful online survey and form builder.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/typeform"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+Typeform/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/typeform"
+    }
+  ],
+  "website": "http://www.typeform.com"
+}

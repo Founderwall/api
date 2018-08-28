@@ -1,0 +1,20 @@
+{
+  "title": "Engine Yard",
+  "pitch": "Cloud application management platform.",
+  "description": "Deploy, scale and monitor your app with the Engine Yard cloud application management platform.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/engineyard"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/107868819064105056313/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/engineyard"
+    }
+  ],
+  "website": "http://www.engineyard.com"
+}

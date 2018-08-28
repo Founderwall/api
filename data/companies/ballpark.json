@@ -1,0 +1,20 @@
+{
+  "title": "Ballpark",
+  "pitch": "Online Invoicing, Time Tracking, and CRM Software.",
+  "description": "Thousands of small businesses use Ballpark to send invoices, receive payments, bid on projects, and keep their team on the same page.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/ballparkapp"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/113680675519255072124/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/ballparkapp"
+    }
+  ],
+  "website": "http://www.getballpark.com"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MindMeister",
+  "pitch": "The best online mind mapping app currently on the market.",
+  "description": "Because of its sleek design and simple interface, MindMeister has been positioned as the number one mind mapping tool available today.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/mindmeister"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+mindmeister/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/mindmeister"
+    }
+  ],
+  "website": "http://www.mindmeister.com"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Mention",
+  "pitch": "Real-time media monitoring application.",
+  "description": "Media monitoring made easy with Mention. Create alerts on your name, brand, competitors and be informed in real-time of any mention on the web and social networks.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/mentionapp"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/mention"
+    }
+  ],
+  "website": "http://mention.com"
+}

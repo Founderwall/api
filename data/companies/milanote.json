@@ -1,0 +1,20 @@
+{
+  "title": "Milanote",
+  "pitch": "The notes app for creative work.",
+  "description": "For the research, thinking and planning behind your next great piece of work.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/milanoteapp"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/105788305472056493109"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/milanoteapp"
+    }
+  ],
+  "website": "http://www.milanote.com"
+}

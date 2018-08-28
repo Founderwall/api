@@ -1,0 +1,19 @@
+{
+  "title": "WP Engine",
+  "pitch":
+    "Drive your business forward with WP Engine's Managed Wordpress Hosting.",
+  "description":
+    "WP Engine offers WordPress hosting for people who want incredible customer support, fast site speeds, and incredible developer features.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/wpengine/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/wpengine"
+    }
+  ],
+  "website": "https://wpengine.com"
+}
+

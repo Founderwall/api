@@ -1,0 +1,16 @@
+{
+  "title": "Startup Buffer",
+  "pitch": "THE place where new projects are promoted!",
+  "description": "Startup Buffer is a place to find, follow, and recommend startups. They cater to early adopters.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/startupbuffer"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/Startupbuffer"
+    }
+  ],
+  "website": "http://startupbuffer.com"
+}

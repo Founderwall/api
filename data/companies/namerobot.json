@@ -1,0 +1,20 @@
+{
+  "title": "NameRobot",
+  "pitch": "Find the name for your startup",
+  "description": "NameRobot offers everything you need to create suitable naming ideas in a short time.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/NameRobot"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Namerobot/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/namerobotEN"
+    }
+  ],
+  "website": "http://www.namerobot.com"
+}

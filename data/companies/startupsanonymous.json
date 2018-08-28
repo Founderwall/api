@@ -1,0 +1,16 @@
+{
+  "title": "StartupsAnonymous",
+  "pitch": "It’s kinda like AA for startups.",
+  "description": "StartupsAnonymous is a place for startups to share stories and ask questions anonymously.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/startupsanonymous"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/StartupsSpeak"
+    }
+  ],
+  "website": "http://startupsanonymous.com"
+}

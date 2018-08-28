@@ -1,0 +1,20 @@
+{
+  "title": "Tictail",
+  "pitch": "Start a free online store.",
+  "description": "Tictail is an ecommerce website for everyone.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/tictail"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Tictail/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/tictail"
+    }
+  ],
+  "website": "http://tictail.com"
+}

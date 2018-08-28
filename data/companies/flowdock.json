@@ -1,0 +1,20 @@
+{
+  "title": "Flowdock",
+  "pitch": "Chat & inbox for teams.One place to talk and stay up-to-date.",
+  "description": "Flowdock is a team collaboration app for desktop, mobile & web.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/flowdock"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/118041382639358256906/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/flowdock"
+    }
+  ],
+  "website": "http://www.flowdock.com"
+}

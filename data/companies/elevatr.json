@@ -1,0 +1,16 @@
+{
+  "title": "Elevatr",
+  "pitch": "Do something about your idea, make a difference.",
+  "description": "A fast, beautiful, and fun way to capture, organize, and share business ideas.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/ElevatrApp"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/ElevatrApp"
+    }
+  ],
+  "website": "http://elevatr.com"
+}

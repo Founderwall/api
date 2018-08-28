@@ -1,0 +1,20 @@
+{
+  "title": "Shopify",
+  "pitch": "Ecommerce Software, Online Store Builder, POS.",
+  "description": "Build your online store with Shopify's ecommerce software and easily sell in person with Shopify's iPad POS.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/shopify"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+shopify/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/shopify"
+    }
+  ],
+  "website": "http://shopify.com"
+}

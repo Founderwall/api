@@ -1,0 +1,16 @@
+{
+  "title": "Peek",
+  "pitch": "Get a peek into the mind of your users.",
+  "description": "See and hear a 5-minute video of a real person using your site or app with Peek.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/UserTestingcom"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/usertesting"
+    }
+  ],
+  "website": "http://peek.usertesting.com"
+}

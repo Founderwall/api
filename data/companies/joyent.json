@@ -1,0 +1,20 @@
+{
+  "title": "Joyent",
+  "pitch": "Container Infrastructure as a Service.",
+  "description": "High-Performance Public Cloud and Private Cloud Software Made Easy.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/joyentcloud"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+joyent/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com.com/joyent"
+    }
+  ],
+  "website": "http://www.joyent.com"
+}

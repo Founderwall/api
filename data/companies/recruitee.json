@@ -1,0 +1,22 @@
+{
+  "title": "Recruitee",
+  "pitch": "Fast, easy, collaborative hiring software.",
+  "description":
+    "Organize your hiring in a collaborative hiring platform. Recruitee combines four products: employer branding, job promoting, talent sourcing, and applicant tracking. Used by 400+ fast-growing companies like Hotjar, Airbrake, and Usabilla.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/recruiteeHR/"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+RecruiteeAmsterdam/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/recruiteehr"
+    }
+  ],
+  "website": "https://recruitee.com"
+}
+

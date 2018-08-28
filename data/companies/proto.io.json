@@ -1,0 +1,16 @@
+{
+  "title": "Proto.io",
+  "pitch": "Mobile app prototyping platform.",
+  "description": "Proto.io is a web platform enabling users to create fully interactive mobile app prototypes.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/protoio"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/protoio"
+    }
+  ],
+  "website": "http://proto.io"
+}

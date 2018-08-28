@@ -1,0 +1,20 @@
+{
+  "title": "Pagoda Box",
+  "pitch": "The Scalable Cloud Hosting Framework.",
+  "description": "Pagoda Box is an Object Oriented Hosting Framework.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/pagodabox"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+Pagodabox/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/pagodabox"
+    }
+  ],
+  "website": "http://pagodabox.com"
+}

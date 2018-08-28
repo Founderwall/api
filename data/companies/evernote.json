@@ -1,0 +1,20 @@
+{
+  "title": "Evernote",
+  "pitch": "The workspace for your life’s work.",
+  "description": "Evernote designs apps and products that transform the way you work.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/evernote"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+evernote/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/evernote"
+    }
+  ],
+  "website": "http://evernote.com"
+}

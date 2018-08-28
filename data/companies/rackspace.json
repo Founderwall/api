@@ -1,0 +1,20 @@
+{
+  "title": "Rackspace",
+  "pitch": "The managed cloud company. Backed by Fanatical Support.",
+  "description": "Rackspace manages your cloud services. You run your business.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/rackspace"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/1/+RackspaceHosting/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/rackspace"
+    }
+  ],
+  "website": "http://rackspace.com"
+}

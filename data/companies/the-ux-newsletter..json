@@ -1,0 +1,12 @@
+{
+  "title": "The UX Newsletter.",
+  "pitch": "by The UX team at MailChimp.",
+  "description": "Stories about designing, researching and building all things MailChimp.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/mailchimpux"
+    }
+  ],
+  "website": "http://www.theuxnewsletter.com"
+}

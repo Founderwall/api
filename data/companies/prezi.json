@@ -1,0 +1,16 @@
+{
+  "title": "Prezi",
+  "pitch": "Create and present anytime, anywhere.",
+  "description": "Resonate, motivate, and be remembered with Prezi, presentation software reimagined.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/prezicom"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/prezi"
+    }
+  ],
+  "website": "http://prezi.com"
+}

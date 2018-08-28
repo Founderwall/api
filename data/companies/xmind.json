@@ -1,0 +1,20 @@
+{
+  "title": "XMind",
+  "pitch": "An open source mind mapping tool.",
+  "description": "A more elegant way to gather, analyze and utilize knowledge, information and ideas.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/xmind.net"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/114196814543244699901/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/xmind"
+    }
+  ],
+  "website": "http://xmind.net"
+}

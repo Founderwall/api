@@ -1,0 +1,16 @@
+{
+  "title": "Sharewave",
+  "pitch": "Where startups connect with their shareholders.",
+  "description": "Sharewave is the best way to manage shareholders.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/sharewaveteam"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sharewaveteam"
+    }
+  ],
+  "website": "http://sharewave.com"
+}

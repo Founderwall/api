@@ -1,0 +1,20 @@
+{
+  "title": "Google Analytics",
+  "pitch": "Web Analytics & Reporting.",
+  "description": "Google Analytics is a web analytics solution that gives you rich insights into your website’s data.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/GoogleAnalytics"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+GoogleAnalytics/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/GoogleAnalytics"
+    }
+  ],
+  "website": "http://analytics.google.com"
+}

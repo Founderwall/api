@@ -1,0 +1,22 @@
+{
+  "title": "Stamplay",
+  "pitch": "Connect. Automate. Invent.",
+  "description":
+    "Parse meets IFTTT, changing how software is built. Create advanced web and mobile apps in a fraction of the time with Stamplay.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/stamplay"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+Stamplay/"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/stamplay"
+    }
+  ],
+  "website": "http://www.stamplay.com/"
+}
+

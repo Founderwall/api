@@ -1,0 +1,16 @@
+{
+  "title": "FreshBooks",
+  "pitch": "Online Invoicing, Accounting & Billing Software.",
+  "description": "FreshBooks is the #1 cloud accounting solution.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/FreshBooks"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/freshbooks"
+    }
+  ],
+  "website": "http://www.freshbooks.com"
+}

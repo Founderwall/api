@@ -1,0 +1,20 @@
+{
+  "title": "Dealroom",
+  "pitch": "Built for entrepreneurs.",
+  "description": "Dealroom gives you direct and secure access to the world’s most sophisticated investors at your fingertips.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/dealroom.co"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/0/+DealroomCo/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/dealroomco"
+    }
+  ],
+  "website": "http://dealroom.co"
+}

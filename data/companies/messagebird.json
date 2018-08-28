@@ -1,0 +1,12 @@
+{
+  "title": "MessageBird",
+  "pitch": "Send SMS and voice messages worldwide.",
+  "description": "Send SMS and voice messages worldwide via MessageBird's website, email or your own software (API).",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/messagebird"
+    }
+  ],
+  "website": "http://www.messagebird.com"
+}

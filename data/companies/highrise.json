@@ -1,0 +1,16 @@
+{
+  "title": "Highrise",
+  "pitch": "Your business, made easier.",
+  "description": "Highrise is your secret weapon to track tasks, contacts, and notes.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/37signals"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/37signals"
+    }
+  ],
+  "website": "http://highrisehq.com"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Codeship",
+  "pitch": "Continuous Delivery made simple.",
+  "description": "Release more frequently, get faster feedback and build the product your users need with Codeship.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/codeship"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/104419910257777182146/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/codeship"
+    }
+  ],
+  "website": "http://www.codeship.com"
+}

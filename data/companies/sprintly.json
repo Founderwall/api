@@ -1,0 +1,16 @@
+{
+  "title": "Sprintly",
+  "pitch": "Sprint.ly enables painless software project management",
+  "description": "Sprintly is an agile tool that powers a more productive relationship between development teams and their management.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/sprint.ly"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sprintly"
+    }
+  ],
+  "website": "http://sprint.ly"
+}

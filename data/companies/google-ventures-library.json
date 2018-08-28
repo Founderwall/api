@@ -1,0 +1,20 @@
+{
+  "title": "Google Ventures Library",
+  "pitch": "Helping startups create great products.",
+  "description": "Get advice on everything from product management to workspace design, inside the Google Ventures Library.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/GoogleVentures"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+GoogleVentures/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/googleventures"
+    }
+  ],
+  "website": "http://www.gv.com/library"
+}

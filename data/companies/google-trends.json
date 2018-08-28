@@ -1,0 +1,20 @@
+{
+  "title": "Google Trends",
+  "pitch": "Get insights on search-terms.",
+  "description": "Google Trends gives you insights on search-terms, you can also compare the volume of searches between two or more terms.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/google"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+google/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/google"
+    }
+  ],
+  "website": "http://www.google.com/trends"
+}

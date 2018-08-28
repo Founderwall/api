@@ -1,0 +1,20 @@
+{
+  "title": "Vtiger",
+  "pitch": "Cloud and Open Source CRM.",
+  "description": "Vtiger helps small and mid-sized businesses become more customer centric.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/vtiger"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+vtiger/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/vtigercrm"
+    }
+  ],
+  "website": "http://www.vtiger.com"
+}

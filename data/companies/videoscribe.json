@@ -1,0 +1,20 @@
+{
+  "title": "VideoScribe",
+  "pitch": "Videos that draw themselves.",
+  "description": "VideoScribe is pure magic. Create your own whiteboard-style animations with no design or technical know-how.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/SparkolHQ"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Sparkol/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/VideoScribeApp"
+    }
+  ],
+  "website": "http://www.videoscribe.co"
+}

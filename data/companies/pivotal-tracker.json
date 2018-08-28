@@ -1,0 +1,20 @@
+{
+  "title": "Pivotal Tracker",
+  "pitch": "Simple, effective project management for agile teams.",
+  "description": "Pivotal Tracker is an awesome, lightweight, agile project management tool for software teams.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/pivotaltracker"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+pivotaltracker/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/pivotaltracker"
+    }
+  ],
+  "website": "http://www.pivotaltracker.com"
+}

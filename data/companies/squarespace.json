@@ -1,0 +1,20 @@
+{
+  "title": "Squarespace",
+  "pitch": "Create an Online Store.",
+  "description": "Squarespace lets you easily create a fully integrated ecommerce website and accept payments instantly.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/squarespace"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+squarespace/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/squarespace"
+    }
+  ],
+  "website": "http://www.squarespace.com/tour/shops"
+}

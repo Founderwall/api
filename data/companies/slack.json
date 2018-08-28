@@ -1,0 +1,16 @@
+{
+  "title": "Slack",
+  "pitch": "All your team communication in one place, instantly searchable, available wherever you go.",
+  "description": "Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/slackhq"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/SlackHQ"
+    }
+  ],
+  "website": "http://slack.com"
+}

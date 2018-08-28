@@ -1,0 +1,20 @@
+{
+  "title": "GoDaddy DomainFinder",
+  "pitch": "Find the right name, right now, at the right price",
+  "description": "GoDaddy DomainFinder is the new domain search app that lets you build your own domain name with the world’s largest domain registrar.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/GoDaddy"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+GoDaddy/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/GoDaddy"
+    }
+  ],
+  "website": "http://itunes.apple.com/us/app/godaddy-domainfinder/id922314780"
+}

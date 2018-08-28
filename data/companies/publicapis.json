@@ -1,0 +1,20 @@
+{
+  "title": "PublicAPIs",
+  "pitch": "Directory of public APIs for web and mobile.",
+  "description": "PublicAPIs is the Largest API Directory In The Galaxy.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/Mashape"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+mashape/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/Mashape"
+    }
+  ],
+  "website": "http://www.publicapis.com"
+}

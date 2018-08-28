@@ -1,0 +1,20 @@
+{
+  "title": "Asana",
+  "pitch": "Teamwork without email.",
+  "description": "Asana puts conversations & tasks together, so you can get more done with less effort.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/asana"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+asana/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/asana"
+    }
+  ],
+  "website": "http://asana.com"
+}

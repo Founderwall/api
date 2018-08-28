@@ -1,0 +1,16 @@
+{
+  "title": "Close.io",
+  "pitch": "Stop logging calls and emails and start making them instead.",
+  "description": "Close.io is the inside sales CRM of choice for SMBs.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/close.io"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/closeio"
+    }
+  ],
+  "website": "http://close.io"
+}

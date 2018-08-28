@@ -1,0 +1,20 @@
+{
+  "title": "DigitalOcean",
+  "pitch": "SSD Cloud Server, VPS Server, Simple Cloud Hosting.",
+  "description": "DigitalOcean is simplifying cloud by providing an infrastructure experience that developers love.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/DigitalOceanCloudHosting"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Digitalocean/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com.com/Digitalocean"
+    }
+  ],
+  "website": "http://www.digitalocean.com"
+}

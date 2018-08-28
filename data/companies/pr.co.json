@@ -1,0 +1,20 @@
+{
+  "title": "pr.co",
+  "pitch": "Professional PR, made easy.",
+  "description": "pr.co is the PR toolkit you will actually love and use.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/prdotco"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/114358821758849123382/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/prdotco"
+    }
+  ],
+  "website": "http://pr.co"
+}

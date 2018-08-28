@@ -1,0 +1,16 @@
+{
+  "title": "CrunchBase",
+  "pitch": "Get insights in startup activity.",
+  "description": "CrunchBase is the world’s most comprehensive dataset of startup activity and it’s accessible to everyone.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/crunchbase"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/crunchbase"
+    }
+  ],
+  "website": "http://www.crunchbase.com"
+}

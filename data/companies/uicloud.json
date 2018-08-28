@@ -1,0 +1,20 @@
+{
+  "title": "UICloud",
+  "pitch": "UICloud is the largest user interface design database in the world.",
+  "description": "UICloud collects the best user interface designs from the internet and provides a search engine for you to find the best UI element you need.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/UICloud.page"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+Ui-cloud/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/uicloud"
+    }
+  ],
+  "website": "http://ui-cloud.com"
+}

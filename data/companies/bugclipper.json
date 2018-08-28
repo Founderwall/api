@@ -1,0 +1,20 @@
+{
+  "title": "BugClipper",
+  "pitch": "Bug reporting made simple for mobile apps.",
+  "description": "Report issues directly from your app, with screenshots, screen recordings and crash videos with BugClipper.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/bugclipper"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/0/100916134131720348747/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/bugclipper"
+    }
+  ],
+  "website": "http://www.bugclipper.com"
+}

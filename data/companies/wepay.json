@@ -1,0 +1,20 @@
+{
+  "title": "WePay",
+  "pitch": "A flexible payments API for platforms.",
+  "description": "WePay is designed for platforms like marketplaces, crowdfunding sites & small business tools.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Wepay"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+wepay"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/wepay"
+    }
+  ],
+  "website": "http://www.wepay.com"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Streak",
+  "pitch": "CRM in your inbox.",
+  "description": "Streak is the easiest way to manage business processes in Gmail.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/streakgmail"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/streak"
+    }
+  ],
+  "website": "http://www.streak.com"
+}

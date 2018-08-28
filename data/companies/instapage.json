@@ -1,0 +1,20 @@
+{
+  "title": "Instapage",
+  "pitch": "Landing page marketing made simple.",
+  "description": "Instapage makes building and A/B split testing landing pages simple.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Instapageapp"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Instapage/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/instapage"
+    }
+  ],
+  "website": "http://www.instapage.com"
+}

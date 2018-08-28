@@ -1,0 +1,16 @@
+{
+  "title": "Yammer",
+  "pitch": "Changing the way companies connect, communicate and collaborate.",
+  "description": "Yammer is a private social network that helps employees collaborate across departments, locations and business apps.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Yammer"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/yammer"
+    }
+  ],
+  "website": "http://www.yammer.com"
+}

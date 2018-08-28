@@ -1,0 +1,16 @@
+{
+  "title": "Rollbar",
+  "pitch": "Take control of your errors.",
+  "description": "Rollbar collects and analyzes errors on web and mobile apps so you can find and fix them faster.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/rollbarinc"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/rollbar"
+    }
+  ],
+  "website": "http://rollbar.com"
+}

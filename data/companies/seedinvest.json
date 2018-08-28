@@ -1,0 +1,20 @@
+{
+  "title": "SeedInvest",
+  "pitch": "Startup Investing, Simplified.",
+  "description": "SeedInvest is a leading equity crowdfunding platform. They help startups raise capital online in a simple, streamlined way.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/seedinvest"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Seedinvestllc/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/seedinvest_co"
+    }
+  ],
+  "website": "http://www.seedinvest.com"
+}

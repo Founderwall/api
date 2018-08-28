@@ -1,0 +1,20 @@
+{
+  "title": "Paymill",
+  "pitch": "Accept all major credit and debit cards.",
+  "description": "Paymill is the fastest and easiest way to accept payments online.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/paymill"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+PaymillGmbH/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/paymill"
+    }
+  ],
+  "website": "http://www.paymill.com"
+}

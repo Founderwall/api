@@ -1,0 +1,16 @@
+{
+  "title": "Zeplin",
+  "pitch": "Build pixel perfect apps in peace",
+  "description": "Design hand-off has never been easier with Zeplin. Easily generate styleguides and resources, automatically.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/zeplin.io"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/zeplin_io"
+    }
+  ],
+  "website": "http://zeplin.io"
+}

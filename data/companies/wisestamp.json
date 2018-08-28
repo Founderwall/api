@@ -1,0 +1,20 @@
+{
+  "title": "WiseStamp",
+  "pitch": "The professional email signature to grow your business",
+  "description": "WiseStamp let's you create email signatures that stand out! Add your latest tweets & social profiles to every email you send.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/WiseStamp/"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+wisestamp"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/WiseStamp"
+    }
+  ],
+  "website": "http://www.wisestamp.com"
+}

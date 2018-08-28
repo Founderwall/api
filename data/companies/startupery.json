@@ -1,0 +1,16 @@
+{
+  "title": "Startup{ery",
+  "pitch": "Curating startup best-practices.",
+  "description": "Startup{ery gathers and organizes the best resources to help you build your business.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/startupery"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/startupery"
+    }
+  ],
+  "website": "http://startupery.com"
+}

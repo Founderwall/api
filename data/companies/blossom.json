@@ -1,0 +1,20 @@
+{
+  "title": "Blossom",
+  "pitch": "Agile Project Management. For People who love the Products they create.",
+  "description": "Blossom is a very lightweight project management tool that assists people in creating the products they love.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/blossom"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+BlossomIo"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/blossom_io"
+    }
+  ],
+  "website": "http://www.blossom.io"
+}

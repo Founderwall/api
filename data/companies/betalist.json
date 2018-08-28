@@ -1,0 +1,20 @@
+{
+  "title": "BetaList",
+  "pitch": "Discover and get easy access to tomorrow's startups.",
+  "description": "BetaList has previously covered startups such as Pinterest, IFTTT and Mailbox before they launched and made it big.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/betalist"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+BetaList/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/betalist"
+    }
+  ],
+  "website": "http://betalist.com"
+}

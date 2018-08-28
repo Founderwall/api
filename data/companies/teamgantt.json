@@ -1,0 +1,16 @@
+{
+  "title": "TeamGantt",
+  "pitch": "Simple Project Scheduling for Teams.",
+  "description": "TeamGantt offers the easiest way to plan, track, and communicate on your projects.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/pages/TeamGantt/267785880859"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/teamgantt"
+    }
+  ],
+  "website": "http://teamgantt.com"
+}

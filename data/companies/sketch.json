@@ -1,0 +1,16 @@
+{
+  "title": "Sketch",
+  "pitch": "Professional digital design for Mac.",
+  "description": "Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/Sketchapp"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/bohemiancoding"
+    }
+  ],
+  "website": "http://bohemiancoding.com/sketch"
+}

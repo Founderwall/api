@@ -1,0 +1,12 @@
+{
+  "title": "Blocs app",
+  "pitch": "A simple way to build beautiful websites.",
+  "description": "Build beautiful websites without touching a line of code with Blocs app.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/blocsapp"
+    }
+  ],
+  "website": "http://blocsapp.com"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Respond by Buffer",
+  "pitch": "Easily monitor your Twitter account(s).",
+  "description": "Respond is a social customer service and community engagement tool, built by Buffer.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/bufferapp/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/buffer"
+    }
+  ],
+  "website": "http://respond.buffer.com"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Docker",
+  "pitch": "The world’s leading software containerization platform",
+  "description": "Docker is an open platform for distributed applications that allows developers and IT administrators to build, ship and run applications anywhere.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/docker.run"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/0/communities/108146856671494713993"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/docker"
+    }
+  ],
+  "website": "http://www.docker.com"
+}

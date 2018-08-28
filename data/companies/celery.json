@@ -1,0 +1,16 @@
+{
+  "title": "Celery",
+  "pitch": "A platform for pre-orders.",
+  "description": "Celery helps new product companies setup pre-order ecommerce or custom reward-based crowdfunding campaigns.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/trycelery/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/@trycelery"
+    }
+  ],
+  "website": "http://www.trycelery.com"
+}

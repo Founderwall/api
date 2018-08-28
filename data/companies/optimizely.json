@@ -1,0 +1,20 @@
+{
+  "title": "Optimizely",
+  "pitch": "A/B testing you'll actually use.",
+  "description": "Optimizely is a website optimization platform that makes A/B and multivariate testing incredibly easy and powerful.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/optimizely"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+optimizely/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/optimizely"
+    }
+  ],
+  "website": "http://www.optimizely.com"
+}

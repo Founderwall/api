@@ -1,0 +1,20 @@
+{
+  "title": "Chargebee",
+  "pitch": "Recurring and subscription billing for SaaS apps/services.",
+  "description": "Chargebee is an affordable subscription billing & recurring billing solution for online web apps.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/chargebee"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Chargebee/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/chargebee"
+    }
+  ],
+  "website": "http://www.chargebee.com"
+}

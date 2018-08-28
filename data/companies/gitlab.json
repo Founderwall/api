@@ -1,0 +1,20 @@
+{
+  "title": "Gitlab",
+  "pitch": "Code, test, and deploy together.",
+  "description": "GitLab is a web-based Git repository manager with wiki and issue tracking features.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/gitlab"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/107491817347842790515/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/gitlab"
+    }
+  ],
+  "website": "http://about.gitlab.com"
+}

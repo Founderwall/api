@@ -1,0 +1,16 @@
+{
+  "title": "Brain.fm",
+  "pitch": "AI generated music to improve focus, relaxation, and sleep.",
+  "description": "Brain.fm helps you focus, relax or sleep in minutes via research driven neuroscience music.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/brainfm/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/BrainfmApp"
+    }
+  ],
+  "website": "http://www.brain.fm"
+}

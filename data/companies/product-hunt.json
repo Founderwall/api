@@ -1,0 +1,20 @@
+{
+  "title": "Product Hunt",
+  "pitch": "The best new products, everyday.",
+  "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/producthunt"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/104166484931249499753/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/producthunt"
+    }
+  ],
+  "website": "http://producthunt.com"
+}

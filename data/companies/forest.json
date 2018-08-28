@@ -1,0 +1,16 @@
+{
+  "title": "Forest",
+  "pitch": "Stay focused, stop phubbing.",
+  "description": "Forest is an app helping you stay away from your smartphone and stay focused on your work.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/forestapp.cc"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/forestapp_cc"
+    }
+  ],
+  "website": "http://www.forestapp.cc"
+}

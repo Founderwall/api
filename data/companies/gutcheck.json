@@ -1,0 +1,16 @@
+{
+  "title": "GutCheck",
+  "pitch": "A Chrome Extension for startups and entrepreneurs!",
+  "description": "GutCheck is an on-demand market research solution delivering quality real-time insights from your target audience.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/GutCheckIt/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/gutcheckit"
+    }
+  ],
+  "website": "http://www.gutcheckit.com"
+}

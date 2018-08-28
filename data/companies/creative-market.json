@@ -1,0 +1,20 @@
+{
+  "title": "Creative Market",
+  "pitch": "Beautiful Design For All.",
+  "description": "Creative Market is a platform for handcrafted, mousemade design content from independent creatives around the world.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/crtvmrkt"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/108290068148911467527/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/creativemarket"
+    }
+  ],
+  "website": "http://creativemarket.com"
+}

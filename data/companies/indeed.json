@@ -1,0 +1,18 @@
+{
+  "title": "Indeed",
+  "pitch": "Your next hire is here.",
+  "description":
+    "Indeed helps millions of job seekers and employers find the right fit every day. Start hiring now on the world's #1 job site.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Indeed/"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/indeed"
+    }
+  ],
+  "website": "http://www.indeed.com/hire"
+}
+

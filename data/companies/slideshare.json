@@ -1,0 +1,20 @@
+{
+  "title": "Slideshare",
+  "pitch": "Upload, Share, and Discover PowerPoint presentations, documents and infographics.",
+  "description": "SlideShare is a LinkedIn company and the world's largest community for sharing presentations.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/slideshare"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+SlideShare/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/slideshare"
+    }
+  ],
+  "website": "http://www.slideshare.net"
+}

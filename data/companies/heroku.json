@@ -1,0 +1,16 @@
+{
+  "title": "Heroku",
+  "pitch": "Cloud Application Platform.",
+  "description": "Heroku provides services and tools to build, run, and scale web applications.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/heroku"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/heroku"
+    }
+  ],
+  "website": "http://www.heroku.com"
+}

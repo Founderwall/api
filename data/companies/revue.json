@@ -1,0 +1,16 @@
+{
+  "title": "Revue",
+  "pitch": "Your weekly digest, automated.",
+  "description": "Create an engaging, gorgeous, weekly digest. You focus on curation, Revue makes sure it looks awesome.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/getrevue"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/getrevue"
+    }
+  ],
+  "website": "http://www.getrevue.co"
+}

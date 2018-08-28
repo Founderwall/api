@@ -1,0 +1,20 @@
+{
+  "title": "The Resumator",
+  "pitch": "Applicant Tracking System & Resume Database.",
+  "description": "The Resumator's applicant tracking system & resume database will help you make great hires every time.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/TheResumator"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Theresumator/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/theresumator"
+    }
+  ],
+  "website": "http://www.theresumator.com"
+}

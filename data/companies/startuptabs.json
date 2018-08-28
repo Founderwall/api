@@ -1,0 +1,16 @@
+{
+  "title": "Startuptabs",
+  "pitch": "Get in front of 1000s of Startup Enthusiasts.",
+  "description": "The startup discovery engine. Startuptabs help you discover new startups with every tab you open.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/StartupTabs"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/startuptabs"
+    }
+  ],
+  "website": "http://startuptabs.com"
+}

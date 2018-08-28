@@ -1,0 +1,20 @@
+{
+  "title": "Gumroad",
+  "pitch": "Gumroad helps all types of creators earn a living selling what they make.",
+  "description": "Gumroad enables creators to sell directly to their audience — so that they can make a living doing what they love.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/gumroad"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/101690432074810503360/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/gumroad"
+    }
+  ],
+  "website": "http://gumroad.com"
+}

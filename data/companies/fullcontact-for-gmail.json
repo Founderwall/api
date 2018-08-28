@@ -1,0 +1,20 @@
+{
+  "title": "FullContact for Gmail",
+  "pitch": "Your Gmail. on steroids.",
+  "description": "Know everything about your Gmail contacts, right from your inbox with FullContact for Gmail.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/FullContactAPI"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/107620035082673219790/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/FullContactApp"
+    }
+  ],
+  "website": "http://www.fullcontact.com/gmail"
+}

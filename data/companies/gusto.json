@@ -1,0 +1,16 @@
+{
+  "title": "Gusto",
+  "pitch": "Payroll and benefits that put people first.",
+  "description": "Gusto is the most delightful — and only — payroll service you'll ever use.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/gustohq"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/gustohq"
+    }
+  ],
+  "website": "http://gusto.com"
+}

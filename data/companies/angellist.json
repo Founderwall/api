@@ -1,0 +1,16 @@
+{
+  "title": "AngelList",
+  "pitch": "Badass platform for startups and investors.",
+  "description": "AngelList is where the world meets startups.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/angellist"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/angellist"
+    }
+  ],
+  "website": "http://angel.co"
+}

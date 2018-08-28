@@ -1,0 +1,16 @@
+{
+  "title": "Quip",
+  "pitch": "Work with people, not files.",
+  "description": "Quip is a beautiful mobile productivity suite that enables you to collaborate on any device.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/quip"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/quip"
+    }
+  ],
+  "website": "http://quip.com"
+}

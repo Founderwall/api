@@ -1,0 +1,20 @@
+{
+  "title": "New Relic",
+  "pitch": "Application performance management & monitoring.",
+  "description": "New Relic is a software analytics company that makes sense of 250 billion data points daily from millions of applications.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/NewRelic"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/101892797062342077748/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/NewRelic"
+    }
+  ],
+  "website": "http://newrelic.com"
+}

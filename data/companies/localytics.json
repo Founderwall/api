@@ -1,0 +1,20 @@
+{
+  "title": "Localytics",
+  "pitch": "The leading analytics and marketing platform for mobile and web apps.",
+  "description": "Localytics is a closed-loop app analytics and marketing platform that helps brands acquire, engage, and retain users.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Localytics"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Localytics/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/localytics"
+    }
+  ],
+  "website": "http://www.localytics.com"
+}

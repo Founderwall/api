@@ -1,0 +1,20 @@
+{
+  "title": "Podio",
+  "pitch": "Podio is the new way to communicate, organize and get work done in teams.",
+  "description": "Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/teampodio"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+podio/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/podio"
+    }
+  ],
+  "website": "http://podio.com"
+}

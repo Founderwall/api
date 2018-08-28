@@ -1,0 +1,20 @@
+{
+  "title": "Recurly",
+  "pitch": "Subscription billing and recurring billing management.",
+  "description": "Recurly offers enterprise-class subscription billing for thousands of companies worldwide.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Recurly"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/115228385341532659439/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/recurly"
+    }
+  ],
+  "website": "http://recurly.com"
+}

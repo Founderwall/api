@@ -1,0 +1,22 @@
+{
+  "title": "Brand24",
+  "pitch": "Instant access to mentions about your brand across the web.",
+  "description":
+    "Identify and analyze online conversations about your brand, product and competition. Easy to use, reliable and cost-effective. Brand24 is used by hundreds of businesses of all sizes.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Brand24/"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+brand24"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/brand24"
+    }
+  ],
+  "website": "http://brand24.com"
+}
+

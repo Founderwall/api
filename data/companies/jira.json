@@ -1,0 +1,20 @@
+{
+  "title": "JIRA",
+  "pitch": "Issue & Project Tracking Software.",
+  "description": "Track and manage everything with JIRA project and issue tracking software by Atlassian.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/AtlassianSoftware"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+atlassian/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/JIRA"
+    }
+  ],
+  "website": "http://www.atlassian.com/software/jira"
+}

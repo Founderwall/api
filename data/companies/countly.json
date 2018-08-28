@@ -1,0 +1,16 @@
+{
+  "title": "Countly",
+  "pitch": "Actionable analytics for better apps.",
+  "description": "Countly is a self-hosted/cloud mobile application analytics & push notifications platform, developed by data scientists.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Countly"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/gocountly"
+    }
+  ],
+  "website": "http://count.ly"
+}

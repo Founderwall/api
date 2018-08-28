@@ -1,0 +1,12 @@
+{
+  "title": "Hacker Newsletter",
+  "pitch": "by Kale Davis.",
+  "description": "The Hacker News Newsletter.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/kale"
+    }
+  ],
+  "website": "http://www.hackernewsletter.com"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Name.com",
+  "pitch": "Your domain awaits…",
+  "description": "Name.com is here to help you get your ideas online with a domain name and a website.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/namedotcom"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/103284506338402437824/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/namedotcom"
+    }
+  ],
+  "website": "http://www.name.com"
+}

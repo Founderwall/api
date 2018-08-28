@@ -1,0 +1,16 @@
+{
+  "title": "QuickMVP",
+  "pitch": "Software for Customer Validation & Business Viability Testing.",
+  "description": "QuickMVP is the easiest way to test your ideas, without wasting time or money.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/quickmvp"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/quickproduct"
+    }
+  ],
+  "website": "http://quickmvp.com"
+}

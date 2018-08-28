@@ -1,0 +1,18 @@
+{
+  "title": "Sumo",
+  "pitch": "Sumo helps you grow your website's traffic.",
+  "description":
+    "Get the best tools to increase your site's traffic, signups, shares, and sexiness with Sumo.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/sumo"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sumome"
+    }
+  ],
+  "website": "https://www.sumo.com"
+}
+

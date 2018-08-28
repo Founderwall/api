@@ -1,0 +1,16 @@
+{
+  "title": "Verify",
+  "pitch": "Test out the ideas before you implement them.",
+  "description": "Verify allows you to quickly test concepts with users to get faster feedback.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/ZURB"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com.com/ZURB"
+    }
+  ],
+  "website": "http://verifyapp.com"
+}

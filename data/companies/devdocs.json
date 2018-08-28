@@ -1,0 +1,16 @@
+{
+  "title": "DevDocs",
+  "pitch": "All-in-one API Documentation Browser.",
+  "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/devdocs"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/devdocs"
+    }
+  ],
+  "website": "http://devdocs.io"
+}

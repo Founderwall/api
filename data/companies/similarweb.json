@@ -1,0 +1,20 @@
+{
+  "title": "SimilarWeb",
+  "pitch": "Website traffic research tool.",
+  "description": "Analyze your competitors’ traffic and identify growth opportunities online with SimilarWeb.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/SimilarWeb"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+SimilarwebCom"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/SimilarWeb"
+    }
+  ],
+  "website": "http://www.similarweb.com"
+}

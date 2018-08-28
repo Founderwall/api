@@ -1,0 +1,20 @@
+{
+  "title": "Geckoboard",
+  "pitch": "Data dashboards for businesses.",
+  "description": "Geckoboard is a real-time dashboard that gives you instant access to your most important metrics.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Geckoboard"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+geckoboard/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/geckoboard"
+    }
+  ],
+  "website": "http://www.geckoboard.com"
+}

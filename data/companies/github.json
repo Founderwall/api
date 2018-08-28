@@ -1,0 +1,20 @@
+{
+  "title": "GitHub",
+  "pitch": "Build software better, together.",
+  "description": "The GitHub platform provides powerful collaboration, code review, and code management for open source and private projects.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/GitHub"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+GitHub/"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/GitHub"
+    }
+  ],
+  "website": "http://github.com"
+}

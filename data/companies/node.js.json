@@ -1,0 +1,12 @@
+{
+  "title": "Node.js",
+  "pitch": "Evented IO for v8 JavaScript.",
+  "description": "Node.js is designed to build scalable network applications.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/nodejs"
+    }
+  ],
+  "website": "http://nodejs.org"
+}

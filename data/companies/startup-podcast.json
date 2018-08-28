@@ -1,0 +1,16 @@
+{
+  "title": "StartUp Podcast",
+  "pitch": "by Gimlet Media.",
+  "description": "StartUp is a podcast series about what happens when someone who knows nothing about business starts one.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/gimletmedia"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/podcaststartup"
+    }
+  ],
+  "website": "http://gimletmedia.com/show/startup"
+}

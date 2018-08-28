@@ -1,0 +1,16 @@
+{
+  "title": "Customer.io",
+  "pitch": "Email connected to your web or mobile app.",
+  "description": "Customer.io helps you send targeted human messages to your users, by utilizing their unique interactions with your business.",
+  "social": [
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/106679737287305623654/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/customerio"
+    }
+  ],
+  "website": "http://customer.io"
+}

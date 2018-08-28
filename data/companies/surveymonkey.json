@@ -1,0 +1,20 @@
+{
+  "title": "SurveyMonkey",
+  "pitch": "Helping people gather the insights they need to make more informed decisions.",
+  "description": "SurveyMonkey is the simple way to create surveys: Intelligent survey software for primates of all species.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/surveymonkey"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+surveymonkey/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/surveymonkey"
+    }
+  ],
+  "website": "http://surveymonkey.com"
+}

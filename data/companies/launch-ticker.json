@@ -1,0 +1,16 @@
+{
+  "title": "LAUNCH Ticker",
+  "pitch": "Tech news, efficient. Part of the @Launch family.",
+  "description": "The LAUNCH Ticker is a daily newsletter that curates the top stories in tech everyday.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/LaunchTicker"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/launchticker"
+    }
+  ],
+  "website": "http://www.launchticker.com"
+}

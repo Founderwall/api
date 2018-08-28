@@ -1,0 +1,16 @@
+{
+  "title": "Point",
+  "pitch": "Awesome link sharing.",
+  "description": "Point is a quick way to share and discuss what you find online.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/GetPointApp"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/GetPointApp"
+    }
+  ],
+  "website": "http://www.getpoint.co"
+}

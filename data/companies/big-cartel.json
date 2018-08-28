@@ -1,0 +1,16 @@
+{
+  "title": "Big Cartel",
+  "pitch": "Simple shopping cart for artists, designers, bands, record labels, jewelry, crafters.",
+  "description": "Big Cartel is a simple shopping cart for clothing and tee designers, bands, record labels, jewelry makers, crafters, and other artists.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/bigcartel"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/bigcartel"
+    }
+  ],
+  "website": "http://bigcartel.com"
+}

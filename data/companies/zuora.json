@@ -1,0 +1,20 @@
+{
+  "title": "Zuora",
+  "pitch": "Subscription Billing, Commerce & Finance Solutions.",
+  "description": "Zuora's cloud technologies helps companies build subscription business models by establishing recurring customer relationships.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/zuora"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Zuora/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/zuora"
+    }
+  ],
+  "website": "http://www.zuora.com"
+}

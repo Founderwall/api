@@ -1,0 +1,20 @@
+{
+  "title": "KillerStartups",
+  "pitch": "Where internet entrepreneurs are the stars.",
+  "description": "KillerStartups is a user driven internet startups community.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/KillerStartups"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Killerstartups/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/killerstartups"
+    }
+  ],
+  "website": "http://www.killerstartups.com"
+}

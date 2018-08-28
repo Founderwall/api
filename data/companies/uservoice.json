@@ -1,0 +1,16 @@
+{
+  "title": "UserVoice",
+  "pitch": "Feedback & Online Help Desk Software.",
+  "description": "UserVoice integrates easy-to-use feedback, helpdesk, and knowledge base management tools in one platform.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/UserVoice"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/uservoice"
+    }
+  ],
+  "website": "http://www.uservoice.com"
+}

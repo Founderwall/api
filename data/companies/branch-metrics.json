@@ -1,0 +1,16 @@
+{
+  "title": "Branch Metrics",
+  "pitch": "Personalized app installs for every new user.",
+  "description": "Branch Metrics helps apps grow through seamless referrals, sharing and deep linking across installs.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/branchmetrics"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/branchmetrics"
+    }
+  ],
+  "website": "http://branch.io"
+}

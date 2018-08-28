@@ -1,0 +1,16 @@
+{
+  "title": "Highwire",
+  "pitch": "Build your own eCommerce Store.",
+  "description": "Highwire Commerce allows you to create your own online store in just minutes!",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/highwire"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/highwire"
+    }
+  ],
+  "website": "http://www.highwire.com"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Zendesk",
+  "pitch": "Customer Service Software & Support Ticket System.",
+  "description": "Zendesk is a leading cloud-based customer service software solution.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/zendesk"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/zendesk"
+    }
+  ],
+  "website": "http://zendesk.com"
+}

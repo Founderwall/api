@@ -1,0 +1,20 @@
+{
+  "title": "Upwork",
+  "pitch": "Access over 2 million skilled freelancers from around the world.",
+  "description": "Upwork is a leading online workplace, where savvy businesses and talented freelancers get the job done.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/upwork"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Upwork/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/Upwork"
+    }
+  ],
+  "website": "http://www.upwork.com"
+}

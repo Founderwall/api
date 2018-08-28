@@ -1,0 +1,20 @@
+{
+  "title": "Infogr.am",
+  "pitch": "Create interactive infographics and online charts.",
+  "description": "Infogr.am is the world's most popular infographics creator.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/www.infogr.am"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Infogram/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/infogram"
+    }
+  ],
+  "website": "http://infogr.am"
+}

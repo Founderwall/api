@@ -1,0 +1,20 @@
+{
+  "title": "Casengo",
+  "pitch": "Simple Customer Service Software.",
+  "description": "Casengo offers super simple customer service software for email, live chat, and social media.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/casengo"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/109761996861412220982/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/casengo"
+    }
+  ],
+  "website": "http://www.casengo.com"
+}

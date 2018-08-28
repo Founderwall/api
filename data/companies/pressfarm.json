@@ -1,0 +1,12 @@
+{
+  "title": "pressfarm",
+  "pitch": "Find journalists to write about your startup.",
+  "description": "Get a link to a journalist's email, bio and twitter with pressfarm.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/thepressfarm"
+    }
+  ],
+  "website": "http://press.farm"
+}

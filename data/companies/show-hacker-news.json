@@ -1,0 +1,16 @@
+{
+  "title": "Show Hacker News",
+  "pitch": "Show HN is for sharing your work.",
+  "description": "Show Hacker News is a way to share something that you've made on Hacker News.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/hnbot"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/newsycombinator"
+    }
+  ],
+  "website": "http://news.ycombinator.com/show"
+}

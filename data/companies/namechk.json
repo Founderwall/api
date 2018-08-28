@@ -1,0 +1,16 @@
+{
+  "title": "NameChk",
+  "pitch": "The go to resource for username availability",
+  "description": "Check the availability of your username across dozens of the most popular social network websites with NameChk.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/namechk"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/namechk"
+    }
+  ],
+  "website": "http://namechk.com"
+}

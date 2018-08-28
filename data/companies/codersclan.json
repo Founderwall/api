@@ -1,0 +1,16 @@
+{
+  "title": "CodersClan",
+  "pitch": "A community-driven marketplace for getting code done.",
+  "description": "Get quick and reliable solutions for code tasks and projects with CodersClan.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/codersclan"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/CodersClan"
+    }
+  ],
+  "website": "http://www.codersclan.com"
+}

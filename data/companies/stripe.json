@@ -1,0 +1,16 @@
+{
+  "title": "Stripe",
+  "pitch": "Web and mobile payments, built for developers.",
+  "description": "Stripe is a developer-friendly way to accept payments online and in mobile apps.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/StripePayments"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/stripe"
+    }
+  ],
+  "website": "http://stripe.com"
+}

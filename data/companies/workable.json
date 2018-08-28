@@ -1,0 +1,20 @@
+{
+  "title": "Workable",
+  "pitch": "Recruiting Software for fast-growing businesses.",
+  "description": "Workable is a beautifully simple tool to advertise jobs and make better hiring decisions with your team.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/WorkableHr"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/0/+WorkableSoftware/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/workable"
+    }
+  ],
+  "website": "http://www.workable.com"
+}

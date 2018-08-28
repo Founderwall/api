@@ -1,0 +1,16 @@
+{
+  "title": "Sidebar",
+  "pitch": "The 5 best design links, every day.",
+  "description": "Every day, Sidebar delivers you the 5 best design links curated by a selection of great editors.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/SidebarIO"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sidebario"
+    }
+  ],
+  "website": "http://sidebar.io"
+}

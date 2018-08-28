@@ -1,0 +1,22 @@
+{
+  "title": "SaneBox",
+  "pitch": "Bring sanity to your inbox.",
+  "description":
+    "SaneBox learns what email is important to you and filters out what isn't.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/SaneBox"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+SaneboxRocks/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sanebox"
+    }
+  ],
+  "website": "http://www.sanebox.com"
+}
+

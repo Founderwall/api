@@ -1,0 +1,16 @@
+{
+  "title": "Strikingly",
+  "pitch": "Best Website Builder.",
+  "description": "Strikingly is an online web platform enabling individuals to build mobile-optimized websites.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/strikingly"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/strikingly"
+    }
+  ],
+  "website": "http://www.strikingly.com"
+}

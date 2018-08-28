@@ -1,0 +1,20 @@
+{
+  "title": "Udacity",
+  "pitch": "Advance Your Career Through Project-Based Online Classes.",
+  "description": "Udacity online courses bridge the gap between real world skills, relevant education, and employment.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Udacity"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Udacity/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/udacity"
+    }
+  ],
+  "website": "http://udacity.com"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Expensify",
+  "pitch": "Expense reports that don't suck!",
+  "description": "Expensify is the best expense reporting app on your phone & web.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Expensify"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/expensify"
+    }
+  ],
+  "website": "http://www.expensify.com"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "germ.io",
+  "pitch": "Get from Idea to Execution.",
+  "description": "Too many awesome ideas die in lost notes and cleaned up whiteboards.\ngerm.io lets you capture every eureka moment and helps you execute it.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/germdotio"
+    },
+    {
+      "title": "Google +",
+      "link": "http://google.com/+germio"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/germ_io"
+    }
+  ],
+  "website": "http://germ.io"
+}

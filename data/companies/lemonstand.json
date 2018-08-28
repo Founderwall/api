@@ -1,0 +1,20 @@
+{
+  "title": "LemonStand",
+  "pitch": "Cloud eCommerce Platform for Professional Online Retailers.",
+  "description": "Grow beyond the limits of shopping carts built for part-time merchants with LemonStand's eCommerce platform.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/lemonstand"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+LemonstandeCommerce/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/lemonstand"
+    }
+  ],
+  "website": "http://lemonstand.com"
+}

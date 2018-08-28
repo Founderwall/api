@@ -1,0 +1,20 @@
+{
+  "title": "Fiverr",
+  "pitch": "Graphics, marketing, fun, and more online services, on budget and on time.",
+  "description": "Fiverr is the marketplace for creative & professional services.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/Fiverr"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+fiverr/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/fiverr"
+    }
+  ],
+  "website": "http://www.fiverr.com"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Heatmaps",
+  "pitch": "Heatmaps for mobile applications.",
+  "description": "Heatmaps is a lightweight iOS framework that tracks individual parts of user apps to collect taps, gestures, and device interactions.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/appguru_io"
+    }
+  ],
+  "website": "http://heatmaps.io"
+}

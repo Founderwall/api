@@ -1,0 +1,16 @@
+{
+  "title": "Feedbag.io",
+  "pitch": "A super lightweight design collaboration tool.",
+  "description": "Feedbag.io helps you collect feedback in a visual and user-friendly manner.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/feedbagio"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/feedbagio"
+    }
+  ],
+  "website": "http://feedbag.io"
+}

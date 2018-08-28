@@ -1,0 +1,20 @@
+{
+  "title": "Twitter Counter",
+  "pitch": "The #1 stats site powered by Twitter.",
+  "description": "Twitter Counter provides detailed statistics into your Twitter activity and followers growth.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://www.facebook.com/twittercounter"
+    },
+    {
+      "title": "Google +",
+      "link": "http://plus.google.com/+twittercounter/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/thecounter"
+    }
+  ],
+  "website": "http://twittercounter.com"
+}

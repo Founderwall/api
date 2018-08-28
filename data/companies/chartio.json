@@ -1,0 +1,20 @@
+{
+  "title": "Chartio",
+  "pitch": "A powerful business intelligence platform that anyone can use.",
+  "description": "Chartio is an award-winning interface to data.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/chartio"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/106818368082812568110/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/chartio"
+    }
+  ],
+  "website": "http://chartio.com"
+}

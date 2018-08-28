@@ -1,0 +1,20 @@
+{
+  "title": "StatusCake",
+  "pitch": "Free unlimited website monitoring",
+  "description": "Make sure you’re the first to know about your website’s downtime. With monitoring up to every 30 seconds & alerts by email, Twitter & phone.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/statuscake"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+Statuscake/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://www.twitter.com/statuscaketeam"
+    }
+  ],
+  "website": "http://www.statuscake.com"
+}

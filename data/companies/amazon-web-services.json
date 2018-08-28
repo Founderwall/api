@@ -1,0 +1,20 @@
+{
+  "title": "Amazon Web Services",
+  "pitch": "Cloud Computing Services",
+  "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "http://facebook.com/amazonwebservices"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/u/1/+amazonwebservices/posts"
+    },
+    {
+      "title": "Twitter",
+      "link": "http://twitter.com/awscloud"
+    }
+  ],
+  "website": "http://aws.amazon.com"
+}

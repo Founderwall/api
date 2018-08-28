@@ -1,0 +1,20 @@
+{
+  "title": "Startup Grind Videos",
+  "pitch": "Educate, inspire, connect. Helping startups be successful.",
+  "description": "Startup Grind is a global startup community designed to educate, inspire, and connect entrepreneurs.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/StartupGrind"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+StartupGrind/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/startupgrind"
+    }
+  ],
+  "website": "http://startupgrind.com/videos"
+}
