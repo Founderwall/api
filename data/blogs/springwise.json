@@ -1,0 +1,20 @@
+{
+  "title": "Springwise",
+  "pitch": "Your essential fix of entrepreneurial ideas.",
+  "description": "Springwise scans the globe for smart new business ideas, delivering instant inspiration to entrepreneurial minds.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/springwise"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/101349225380191867272/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/springwise"
+    }
+  ],
+  "website": "http://www.springwise.com"
+}

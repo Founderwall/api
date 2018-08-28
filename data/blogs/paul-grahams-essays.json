@@ -1,0 +1,12 @@
+{
+  "title": "Paul Graham’s Essays",
+  "pitch": "by Paul Graham.",
+  "description": "Paul Graham is a programmer, writer, and investor.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/paulg"
+    }
+  ],
+  "website": "http://paulgraham.com/articles.html"
+}

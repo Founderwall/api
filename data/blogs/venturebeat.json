@@ -1,0 +1,20 @@
+{
+  "title": "VentureBeat",
+  "pitch": "VB brings you the news on what matters in the tech business world.",
+  "description": "VentureBeat is the leading source for news & perspective on tech innovation.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/venturebeat"
+    },
+    {
+      "title": "Google +",
+      "link": "https://plus.google.com/+VentureBeat/about"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/venturebeat"
+    }
+  ],
+  "website": "http://venturebeat.com"
+}

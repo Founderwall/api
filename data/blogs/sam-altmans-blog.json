@@ -1,0 +1,12 @@
+{
+  "title": "Sam Altman’s blog",
+  "pitch": "by Sam Altman.",
+  "description": "Sam Altman is an entrepreneur, programmer, venture capitalist and blogger. He is the president of Y Combinator.",
+  "social": [
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/sama"
+    }
+  ],
+  "website": "http://blog.samaltman.com"
+}

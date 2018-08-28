@@ -1,0 +1,16 @@
+{
+  "title": "Ben’s blog",
+  "pitch": "by Ben Horowitz.",
+  "description": "Ben Horowitz is a VC at Andreessen Horowitz and the author of the book “The hard thing about hard things”.",
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/bhorowitz0"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/bhorowitz"
+    }
+  ],
+  "website": "http://a16z.com/author/ben-horowitz"
+}
