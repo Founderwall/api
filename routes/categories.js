@@ -22,24 +22,32 @@ router.get("/featured", function(req, res, next) {
       returnCategory.articles = returnCategory.articles
         .slice(0, itemsToRetriveByCategory)
         .map(slug => getArticleBySlug(slug));
+    } else {
+      returnCategory.articles = [];
     }
 
     if (returnCategory.blogs) {
       returnCategory.blogs = returnCategory.blogs
         .slice(0, itemsToRetriveByCategory)
         .map(slug => getBlogBySlug(slug));
+    } else {
+      returnCategory.blogs = [];
     }
 
     if (returnCategory.books) {
       returnCategory.books = returnCategory.books
         .slice(0, itemsToRetriveByCategory)
         .map(slug => getBookBySlug(slug));
+    } else {
+      returnCategory.books = [];
     }
 
     if (returnCategory.companies) {
       returnCategory.companies = returnCategory.companies
         .slice(0, itemsToRetriveByCategory)
         .map(slug => getCompanyBySlug(slug));
+    } else {
+      returnCategory.companies = [];
     }
 
     featuredCategories[key] = returnCategory;
