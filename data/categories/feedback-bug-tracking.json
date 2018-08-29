@@ -1,14 +1,14 @@
 {
   "title": "Feedback & Bugtracking",
   "companies": [
-    "Doorbell",
-    "Usersnap",
-    "BugHerd",
-    "Lighthouse",
-    "JIRA",
-    "Promoter.io",
-    "UserInput.io",
-    "Rollbar",
-    "BugClipper"
+    "doorbell",
+    "usersnap",
+    "bugherd",
+    "lighthouse",
+    "jira",
+    "promoter.io",
+    "userinput.io",
+    "rollbar",
+    "bugclipper"
   ]
 }

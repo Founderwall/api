@@ -1,15 +1,15 @@
 {
   "title": "Collaboration & Communication",
   "companies": [
-    "Yammer",
-    "Slack",
-    "Podio",
-    "Flowdock",
-    "Quip",
-    "HipChat",
-    "RealtimeBoard",
+    "yammer",
+    "slack",
+    "podio",
+    "flowdock",
+    "quip",
+    "hipchat",
+    "realtimeboard",
     "join.me",
-    "Sameroom",
-    "Sneek"
+    "sameroom",
+    "sneek"
   ]
 }

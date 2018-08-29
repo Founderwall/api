@@ -1,13 +1,13 @@
 {
   "title": "Mobile (app) analytics",
   "companies": [
-    "Appsee",
-    "AppsFlyer",
-    "Localytics",
-    "App Annie",
-    "Countly",
-    "Taplytics",
-    "SearchMan",
-    "VUE"
+    "appsee",
+    "appsflyer",
+    "localytics",
+    "app-annie",
+    "countly",
+    "taplytics",
+    "searchman",
+    "vue"
   ]
 }

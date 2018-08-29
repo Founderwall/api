@@ -1,14 +1,14 @@
 {
   "title": "Sales",
   "companies": [
-    "MailShake",
-    "VoilaNorbert",
-    "GrowSumo",
-    "LeadGenius",
-    "Close.io",
-    "Receiptful",
-    "Fileboard",
-    "PersistIQ",
-    "Sparta"
+    "mailshake",
+    "voilanorbert",
+    "growsumo",
+    "leadgenius",
+    "close.io",
+    "receiptful",
+    "fileboard",
+    "persistiq",
+    "sparta"
   ]
 }

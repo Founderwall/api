@@ -1,15 +1,15 @@
 {
   "title": "Forms & Surveys",
   "companies": [
-    "Typeform",
-    "Surveypal",
-    "Qualaroo",
-    "Qualtrics",
-    "Formstack",
-    "Delighted",
-    "Peek",
-    "SurveyMonkey",
-    "Verify",
-    "Google consumer surveys"
+    "typeform",
+    "surveypal",
+    "qualaroo",
+    "qualtrics",
+    "formstack",
+    "delighted",
+    "peek",
+    "surveymonkey",
+    "verify",
+    "google-consumer-surveys"
   ]
 }

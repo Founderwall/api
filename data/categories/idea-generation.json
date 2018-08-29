@@ -1,15 +1,15 @@
 {
   "title": "Idea generation",
   "companies": [
-    "Milanote",
+    "milanote",
     "germ.io",
-    "Experiment Board",
-    "Curator",
-    "Point",
-    "Stache",
-    "MindMeister",
-    "Skitch",
-    "XMind",
-    "Elevatr"
+    "experiment-board",
+    "curator",
+    "point",
+    "stache",
+    "mindmeister",
+    "skitch",
+    "xmind",
+    "elevatr"
   ]
 }

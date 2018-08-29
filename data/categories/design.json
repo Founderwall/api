@@ -1,15 +1,14 @@
 {
   "title": "Design",
   "companies": [
-    "Dribbble",
-    "UX Archive",
-    "Little Big Details",
-    "Sketch",
-    "Unsplash",
-    "InVision",
-    "Crayon",
-    "Pttrns",
-    "Zeplin",
-    "Polarr"
+    "ux-archive",
+    "little-big-details",
+    "sketch",
+    "invision",
+    "crayon",
+    "pttrns",
+    "zeplin",
+    "polarr"
   ]
 }
+

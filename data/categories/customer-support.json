@@ -1,13 +1,13 @@
 {
   "title": "Customer support",
   "companies": [
-    "LiveChat",
-    "Zendesk",
-    "Squaresend",
-    "Casengo",
-    "Front",
-    "UserVoice",
-    "Keeping",
-    "ClickDesk"
+    "livechat",
+    "zendesk",
+    "squaresend",
+    "casengo",
+    "front",
+    "uservoice",
+    "keeping",
+    "clickdesk"
   ]
 }

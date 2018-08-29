@@ -1,13 +1,13 @@
 {
   "title": "Deployment",
   "companies": [
-    "Docker",
-    "GitHub",
-    "Wercker",
-    "New Relic",
-    "Codeship",
-    "Deploy",
-    "Engine Yard",
-    "CircleCI"
+    "docker",
+    "github",
+    "wercker",
+    "new-relic",
+    "codeship",
+    "deploy",
+    "engine-yard",
+    "circleci"
   ]
 }

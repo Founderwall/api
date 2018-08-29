@@ -1,14 +1,14 @@
 {
   "title": "Hosting",
   "companies": [
-    "WP Engine",
-    "Bluehost",
-    "Rackspace",
-    "Amazon Web Services",
-    "Heroku",
-    "DigitalOcean",
-    "Joyent",
-    "StatusCake",
-    "dotCloud"
+    "wp-engine",
+    "bluehost",
+    "rackspace",
+    "amazon-web-services",
+    "heroku",
+    "digitalocean",
+    "joyent",
+    "statuscake",
+    "dotcloud"
   ]
 }

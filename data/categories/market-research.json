@@ -1,15 +1,15 @@
 {
   "title": "Market research",
   "companies": [
-    "Google Trends",
-    "Validately",
-    "AYTM",
-    "Proved",
-    "Consumer Barometer",
-    "CrunchBase",
-    "SimilarWeb",
-    "Compass",
-    "Statista",
-    "GutCheck"
+    "google-trends",
+    "validately",
+    "aytm",
+    "proved",
+    "consumer-barometer",
+    "crunchbase",
+    "similarweb",
+    "compass",
+    "statista",
+    "gutcheck"
   ]
 }

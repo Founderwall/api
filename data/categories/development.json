@@ -1,14 +1,14 @@
 {
   "title": "Development",
   "companies": [
-    "Gitlab",
-    "DevDocs",
-    "Node.js",
-    "MessageBird",
-    "Coda",
-    "ReadMe.io",
-    "Stamplay",
-    "Algolia Search API",
-    "Forest"
+    "gitlab",
+    "devdocs",
+    "node.js",
+    "messagebird",
+    "coda",
+    "readme.io",
+    "stamplay",
+    "algolia-search-api",
+    "forest"
   ]
 }

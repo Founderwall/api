@@ -1,15 +1,15 @@
 {
   "title": "Analytics",
   "companies": [
-    "Crazy Egg",
-    "Geckoboard",
-    "KISSmetrics",
-    "Optimizely",
-    "Mixpanel",
-    "Chartio",
-    "Segment",
-    "UXCam",
-    "TrepScore",
-    "Google Analytics"
+    "crazy-egg",
+    "geckoboard",
+    "kissmetrics",
+    "optimizely",
+    "mixpanel",
+    "chartio",
+    "segment",
+    "uxcam",
+    "trepscore",
+    "google-analytics"
   ]
 }

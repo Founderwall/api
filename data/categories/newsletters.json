@@ -1,15 +1,15 @@
 {
   "title": "Newsletters",
   "companies": [
-    "Founders Grid",
-    "LAUNCH Ticker",
-    "The Mattermark Daily",
-    "Sidebar",
-    "IOS Dev Weekly",
-    "The UX Newsletter.",
-    "Hacker Newsletter",
-    "Letterlist",
-    "Charged",
-    "The Sunday Dispatches"
+    "founders-grid",
+    "launch-ticker",
+    "the-mattermark-daily",
+    "sidebar",
+    "ios-dev-weekly",
+    "the-ux-newsletter.",
+    "hacker-newsletter",
+    "letterlist",
+    "charged"
   ]
 }
+
