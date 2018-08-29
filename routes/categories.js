@@ -69,6 +69,31 @@ router.get("/:slug", function(req, res, next) {
   if (!category) {
     return next();
   }
+
+  if (category.articles) {
+    category.articles = category.articles.map(slug => getArticleBySlug(slug));
+  } else {
+    category.articles = [];
+  }
+
+  if (category.blogs) {
+    category.blogs = category.blogs.map(slug => getBlogBySlug(slug));
+  } else {
+    category.blogs = [];
+  }
+
+  if (category.books) {
+    category.books = category.books.map(slug => getBookBySlug(slug));
+  } else {
+    category.books = [];
+  }
+
+  if (category.companies) {
+    category.companies = category.companies.map(slug => getCompanyBySlug(slug));
+  } else {
+    category.companies = [];
+  }
+
   res.json(category);
 });
 
