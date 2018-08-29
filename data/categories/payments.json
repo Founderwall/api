@@ -1,0 +1,15 @@
+{
+  "title": "Payments",
+  "companies": [
+    "Chargebee",
+    "Recurly",
+    "Zuora",
+    "Stripe",
+    "Chargify",
+    "Paymill",
+    "Plasso",
+    "WePay",
+    "Braintree",
+    "Coinbase"
+  ]
+}
