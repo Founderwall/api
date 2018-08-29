@@ -24,7 +24,10 @@ const getAllFilesContentsBySlugFromDataDirectory = dataDirectory => {
   readFiles(
     dataDirectory,
     function(filename, content) {
-      filesBySlug[filename.replace(".json", "")] = JSON.parse(content);
+      const slug = filename.replace(".json", "");
+      const contentObj = JSON.parse(content);
+      contentObj.slug = slug;
+      filesBySlug[slug] = contentObj;
     },
     function(err) {
       throw err;
