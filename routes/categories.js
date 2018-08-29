@@ -65,7 +65,7 @@ router.get("/", function(req, res, next) {
 });
 
 router.get("/:slug", function(req, res, next) {
-  const category = getCategoryBySlug(req.params.slug);
+  const category = { ...getCategoryBySlug(req.params.slug) };
   if (!category) {
     return next();
   }
