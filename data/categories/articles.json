@@ -1,16 +1,15 @@
 {
   "title": "Articles",
   "articles": [
-    "Paul Graham’s Essays",
-    "How to write emails like a CEO",
-    "The spark file",
-    "You are not late",
-    "Good and bad reasons to become an entrepreneur",
-    "Quitting my corporate job",
-    "The artifacts of Product Hunt",
-    "Postmortem of a VC-backed Startup",
-    "Writing a business plan",
-    "What I wish I knew before I pitched Linkedin to VCs"
+    "how-to-write-emails-like-a-ceo",
+    "the-spark-file",
+    "you-are-not-late",
+    "good-and-bad-reasons-to-become-an-entrepreneur",
+    "quitting-my-corporate-job",
+    "the-artifacts-of-product-hunt",
+    "postmortem-of-a-vc-backed-startup",
+    "writing-a-business-plan",
+    "what-i-wish-i-knew-before-i-pitched-linkedin-to-vcs"
   ]
 }
 
