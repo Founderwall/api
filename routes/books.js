@@ -1,35 +1,7 @@
-var express = require("express");
-var router = express.Router();
-const fs = require("fs");
-
-function readFiles(dirname, onFileContent, onError) {
-  fs.readdir(dirname, function(err, filenames) {
-    if (err) {
-      onError(err);
-      return;
-    }
-    filenames.forEach(function(filename) {
-      fs.readFile(dirname + filename, "utf-8", function(err, content) {
-        if (err) {
-          onError(err);
-          return;
-        }
-        onFileContent(filename, content);
-      });
-    });
-  });
-}
-
-var books = {};
-readFiles(
-  "./data/books/",
-  function(filename, content) {
-    books[filename.replace(".json", "")] = JSON.parse(content);
-  },
-  function(err) {
-    throw err;
-  }
-);
+const express = require("express");
+const router = express.Router();
+const { getAllFilesContentsBySlugFromDataDirectory } = require("../utils/data");
+const books = getAllFilesContentsBySlugFromDataDirectory("./data/books/");
 
 router.get("/", function(req, res, next) {
   if (req.query.filter) {
