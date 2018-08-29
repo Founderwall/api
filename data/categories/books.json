@@ -1,16 +1,15 @@
 {
   "title": "Books",
   "books": [
-    "Traction Book",
-    "Zero to One",
-    "Start With Why",
-    "The Hard Thing About Hard Things",
-    "Running Lean",
-    "The tipping point",
-    "The Four Steps to the Epiphany",
-    "Without their permission",
-    "The 7 Habits of Highly Effective People",
-    "Where Good Ideas Come From"
+    "traction-book",
+    "zero-to-one",
+    "start-with-why",
+    "the-hard-thing-about-hard-things",
+    "running-lean",
+    "the-tipping-point",
+    "the-four-steps-to-the-epiphany",
+    "without-their-permission",
+    "the-7-habits-of-highly-effective-people",
+    "where-good-ideas-come-from"
   ]
 }
-
