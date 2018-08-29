@@ -1,26 +1,22 @@
 const express = require("express");
 const router = express.Router();
-const { getAllFilesContentsBySlugFromDataDirectory } = require("../utils/data");
-const books = getAllFilesContentsBySlugFromDataDirectory("./data/books/");
+const {
+  getAllBooks,
+  getBookBySlug,
+  getBooksBySlugs
+} = require("../models/books");
 
 router.get("/", function(req, res, next) {
   if (req.query.filter) {
     const booksToFilter = req.query.filter.split(",");
-    const ret = {};
-    booksToFilter.forEach(bookKey => {
-      const book = books[bookKey];
-      if (book) {
-        ret[bookKey] = book;
-      }
-    });
-    return res.json(ret);
+    return res.json(getBooksBySlugs(booksToFilter));
   }
-  res.json(books);
+  res.json(getAllBooks());
 });
 
 router.get("/:slug", function(req, res, next) {
-  const book = books[req.params.slug];
-  if (!books[req.params.slug]) {
+  const book = getBookBySlug(req.params.slug);
+  if (!book) {
     return next();
   }
   res.json(book);

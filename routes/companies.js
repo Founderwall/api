@@ -1,28 +1,22 @@
 const express = require("express");
 const router = express.Router();
-const { getAllFilesContentsBySlugFromDataDirectory } = require("../utils/data");
-const companies = getAllFilesContentsBySlugFromDataDirectory(
-  "./data/companies/"
-);
+const {
+  getAllCompanies,
+  getCompanyBySlug,
+  getCompaniesBySlugs
+} = require("../models/companies");
 
 router.get("/", function(req, res, next) {
   if (req.query.filter) {
     const companiesToFilter = req.query.filter.split(",");
-    const ret = {};
-    companiesToFilter.forEach(companyKey => {
-      const company = companies[companyKey];
-      if (company) {
-        ret[companyKey] = company;
-      }
-    });
-    return res.json(ret);
+    return res.json(getCompaniesBySlugs(companiesToFilter));
   }
-  res.json(companies);
+  res.json(getAllCompanies());
 });
 
 router.get("/:slug", function(req, res, next) {
-  const company = companies[req.params.slug];
-  if (!companies[req.params.slug]) {
+  const company = getCompanyBySlug(req.params.slug);
+  if (!company) {
     return next();
   }
   res.json(company);

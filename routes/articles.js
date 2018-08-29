@@ -1,27 +1,22 @@
 const express = require("express");
 const router = express.Router();
-const { getAllFilesContentsBySlugFromDataDirectory } = require("../utils/data");
-
-const articles = getAllFilesContentsBySlugFromDataDirectory("./data/articles/");
+const {
+  getAllArticles,
+  getArticleBySlug,
+  getArticlesBySlugs
+} = require("../models/articles");
 
 router.get("/", function(req, res, next) {
   if (req.query.filter) {
     const articlesToFilter = req.query.filter.split(",");
-    const ret = {};
-    articlesToFilter.forEach(articleKey => {
-      const article = articles[articleKey];
-      if (article) {
-        ret[articleKey] = article;
-      }
-    });
-    return res.json(ret);
+    return res.json(getArticlesBySlugs(articlesToFilter));
   }
-  res.json(articles);
+  res.json(getAllArticles());
 });
 
 router.get("/:slug", function(req, res, next) {
-  const article = articles[req.params.slug];
-  if (!articles[req.params.slug]) {
+  const article = getArticleBySlug(req.params.slug);
+  if (!article) {
     return next();
   }
   res.json(article);
