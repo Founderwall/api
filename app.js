@@ -6,6 +6,7 @@ const articlesRoutes = require("./routes/articles");
 const blogsRoutes = require("./routes/blogs");
 const booksRoutes = require("./routes/books");
 const companiesRoutes = require("./routes/companies");
+const categoriesRoutes = require("./routes/categories");
 
 const app = express();
 
@@ -17,6 +18,7 @@ app.use("/articles", articlesRoutes);
 app.use("/blogs", blogsRoutes);
 app.use("/books", booksRoutes);
 app.use("/companies", companiesRoutes);
+app.use("/categories", categoriesRoutes);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
